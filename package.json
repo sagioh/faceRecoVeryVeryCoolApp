@@ -1,0 +1,22 @@
+{
+  "name": "emotion_assist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagioh/faceRecoVeryVeryCoolApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagioh/faceRecoVeryVeryCoolApp/issues"
+  },
+  "homepage": "https://github.com/sagioh/faceRecoVeryVeryCoolApp#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
